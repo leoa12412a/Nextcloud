@@ -23,22 +23,25 @@ $ docker run -d nextcloud:fpm
 
 ## 導覽
 
+### 語言設定
 可以在 設定=> 個人資訊 => 語言選擇 語言
 
 ![image](https://github.com/leoa12412a/Nextcloud/blob/master/1.jpg)
 ![image](https://github.com/leoa12412a/Nextcloud/blob/master/1.jpg)
 
-
+### 安全性
 安全性方面，可以知道每次登入是在那裡的什麼機器上
 
 ![image](https://github.com/leoa12412a/Nextcloud/blob/master/4.jpg)
 
+### 通知
 活動 : 只要有任何變動都可以透過設定用mail來通知使用者
 
 ![image](https://github.com/leoa12412a/Nextcloud/blob/master/3.jpg)
 
-應用程式 可以選擇開啟或是關閉功能
+### 應用程式及功能
+應用程式 可以選擇開啟或是關閉功能，並且可以下載擴充功能或是其他程式的資訊
 
 ![image](https://github.com/leoa12412a/Nextcloud/blob/master/5.jpg)
-
+![image](https://github.com/leoa12412a/Nextcloud/blob/master/6.PNG)
 
