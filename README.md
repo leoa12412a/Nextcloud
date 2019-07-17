@@ -31,3 +31,9 @@ $ docker run -d nextcloud:fpm
 安全性方面，可以知道每次登入是在那裡的什麼機器上
 
 ![image](https://github.com/leoa12412a/Nextcloud/blob/master/4.jpg)
+
+活動 : 只要有任何變動都可以透過設定用mail來通知使用者
+
+![image](https://github.com/leoa12412a/Nextcloud/blob/master/3.jpg)
+
+
