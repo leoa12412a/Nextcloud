@@ -1,5 +1,6 @@
 # Nextcloud
 
+
 ## Nextcloud是什麼?
 
 Nextcloud是一款open source的雲端資料儲存庫，且支援apple和android系統的APP。
@@ -35,5 +36,9 @@ $ docker run -d nextcloud:fpm
 活動 : 只要有任何變動都可以透過設定用mail來通知使用者
 
 ![image](https://github.com/leoa12412a/Nextcloud/blob/master/3.jpg)
+
+應用程式 可以選擇開啟或是關閉功能
+
+![image](https://github.com/leoa12412a/Nextcloud/blob/master/5.jpg)
 
 
