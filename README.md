@@ -47,5 +47,5 @@ $ docker run -d nextcloud:fpm
 
 
 資料來源:
-GITHUB : https://github.com/nextcloud/docker
+GITHUB : https://github.com/nextcloud/docker<br>
 說明文件 : https://docs.nextcloud.com/server/13/admin_manual/contents.html
